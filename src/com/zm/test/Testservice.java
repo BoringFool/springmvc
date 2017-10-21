@@ -18,6 +18,7 @@ public class Testservice {
 		u.setAge(25);
 		u.setName("zm");
 		ser.act(u);
+		
 
 	}
 
